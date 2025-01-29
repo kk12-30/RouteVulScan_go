@@ -19,21 +19,21 @@
 ## 🚀使用示例
 示例 1：扫描单个 URL
 扫描单个网站 URL：
-./RouteScanAuto -u http://example.com
+RouteScanAuto.exe -u http://example.com
 
 示例 2：扫描多个 URL
 从文件中读取多个 URL，进行批量扫描：
-./RouteScanAuto -f urls.txt
+RouteScanAuto.exe -f urls.txt
 
 示例 3：开启 URL 爬取功能
 开启 URL 爬取功能并指定爬取深度：
-./RouteScanAuto -u http://example.com -tt 1
+RouteScanAuto.exe -u http://example.com -tt 1
 
 🎯联动工具https://github.com/kk12-30/JSFinder-go
 
 示例 4：保存扫描结果到指定文件
 将扫描结果保存到 scan_results.txt：
-./RouteScanAuto -u http://example.com -output scan_results.txt
+RouteScanAuto.exe -u http://example.com -output scan_results.txt
 
 
 
