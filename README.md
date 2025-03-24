@@ -1,7 +1,7 @@
 # RouteVulScan_go 路径漏洞探测工具
 ![RouteScanAuto](https://img.shields.io/badge/RouteScanAuto-blue.svg)
 
-**RouteVulScan_go** 是一款可以递归检测脆弱路径的go工具
+**RouteVulScan_go** 是一款可以递归检测脆弱路径的go工具，主要逻辑参考burpsuit插件[RouteVulScan](https://github.com/F6JO/RouteVulScan)
 
 ## 💡主要功能
 - 扫描单个 URL 或从文件中读取多个 URL 进行扫描。
