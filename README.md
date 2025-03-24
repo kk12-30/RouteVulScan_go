@@ -37,6 +37,7 @@ RouteVulScan.exe -u http://example.com -tt 1
 示例 4：保存扫描结果到指定文件
 将扫描结果保存到 scan_results.txt：
 RouteVulScan.exe -u http://example.com -output scan_results.txt
+![image](https://github.com/kk12-30/RouteVulScan_go/blob/main/3.png)
 
 
 
