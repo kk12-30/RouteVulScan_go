@@ -29,7 +29,7 @@ RouteVulScan.exe -u http://example.com
 RouteVulScan.exe -f urls.txt
 
 示例 3：开启 URL 爬取功能
-开启 URL 爬取功能并指定爬取深度（-tt 1则只保留一层路径）：
+开启 URL 爬取功能并指定爬取深度（-tt 1则只保留一层路径 路径越多耗费的时间越长）：
 RouteVulScan.exe -u http://example.com -tt 1
 
 需要将js.exe放置在同一文件夹中❤️联动工具：https://github.com/kk12-30/JSFinder-go
