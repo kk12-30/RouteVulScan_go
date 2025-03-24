@@ -4,7 +4,7 @@
 **RouteVulScan_go** 是一款可以递归检测脆弱路径的go工具，主要逻辑参考burpsuit插件[RouteVulScan](https://github.com/F6JO/RouteVulScan)
 
 支持检测主流OA(致远、通达、泛微等)、框架(weblogic、thinkphp等)、中间件漏洞(spring等)
-![image](https://github.com/kk12-30/RouteVulScan_go/blob/main/1.png)
+![image](https://github.com/kk12-30/RouteVulScan_go/blob/main/2.png)
 
 ## 💡主要功能
 - 扫描单个 URL 或从文件中读取多个 URL 进行扫描。
