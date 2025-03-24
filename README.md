@@ -29,7 +29,7 @@ RouteVulScan.exe -f urls.txt
 开启 URL 爬取功能并指定爬取深度：
 RouteVulScan.exe -u http://example.com -tt 1
 
-✅联动工具https://github.com/kk12-30/JSFinder-go
+❤️联动工具https://github.com/kk12-30/JSFinder-go
 
 示例 4：保存扫描结果到指定文件
 将扫描结果保存到 scan_results.txt：
